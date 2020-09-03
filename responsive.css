@@ -1,0 +1,211 @@
+@media all and (max-width: 1520px) {
+    .heading{
+       
+        width: 100%;
+        max-width: 100%;
+        margin: auto;
+    }
+    
+}
+
+@media all and (max-width: 1024px) {
+    .head_logo{
+        width: 100%;
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .head_menu{
+        box-sizing: border-box;
+        padding-left: 20px;
+        padding-right: 20px;
+        width: 100%;
+        border-right: none;
+        margin-top: -30px;
+    }
+    .head_menu ul{
+        text-align: center;
+    }
+    .head_menu ul li a{
+        border-right:none;
+    }
+    .head_menu ul li a:nth-child(1){
+        border-left: none;
+    }
+    .banner{
+       padding: 160px 0;
+      
+    }
+    .banner_caption h2{
+        padding: 5px 12px;
+    }
+    .banner_caption h3{
+        padding: 5px 18px;
+    }
+    .about_section{
+        width: 100%;
+        max-width: 100%;
+    }
+    
+    .about_box h3{
+        font-size: 24px;
+    }
+
+
+
+}
+
+@media all and (max-width: 768px) {
+    
+    .head_logo{
+        width: 100%;
+        text-align: center;
+       
+    }
+
+    .head_menu{
+        box-sizing: border-box;
+        padding-left: 20px;
+        padding-right: 20px;
+        width: 100%;
+        border-right: none;
+        margin-top: -30px;
+    }
+    .head_menu ul{
+        text-align: center;
+    }
+    .head_menu ul li a{
+        padding: 0 15px;
+        line-height: 45px;
+    }
+    .banner{
+        padding: 120px 0;
+       
+     }
+    .banner_caption h2{
+        padding: 12px 0;
+        font-size: 30px;
+    }
+    .banner_caption h3{
+        padding: 12px 0;
+        font-size: 35px;
+    }
+    .about_section{
+        width: 100%;
+        max-width: 100%;
+    }
+    .about_box{
+        width: 100%;
+       box-sizing: border-box;
+      
+    }
+    .about_caption{
+        margin: auto;
+       width: 100%;
+       
+    }
+    .left_site_writing img{
+        width: 250px;
+      margin-top: 20px;
+      float: left;
+      margin-top: 50px;
+       
+    }
+    .left_site_writing p{
+        width: 400px;
+        display: inline-block;
+      
+      
+    }
+
+    .left_site{
+     width: 100%;
+       margin-left: 50px;
+    }
+    .right_site{
+      width: 100%;
+       margin-top: 50px;
+    }
+    .right_site p{
+        margin-left: 20px;
+    }
+
+    .footer p{
+       width: 100%;
+       text-align: center;
+    }
+    .footer_icon span{
+       width: 100%;
+       text-align: center;
+    
+    }
+    
+
+}
+
+
+
+@media all and (max-width: 576px){
+    .about_box{
+        width: 100%;
+        max-width: 100%;
+    }
+    .banner{
+        padding: 80px 0;
+       
+     }
+     .head_menu ul li a{
+        padding: 0 10px;
+        line-height: 35px;
+    }
+     .banner_caption{
+         width: 100%;
+     }
+     .banner_caption h2{
+         width: 80%;
+        padding: 12px 0;
+        font-size: 25px;
+    }
+    .banner_caption h3{
+        width: 90%;
+        padding: 12px 0;
+        font-size: 28px;
+    }
+    .about_section{
+        width: 100%;
+        max-width: 100%;
+    }
+    .about_box{
+        width: 100%;
+        max-width: 100%;
+        box-sizing: border-box;
+        
+    }
+    
+    .left_site_writing img{
+        width: 120px;
+        float: left;
+        margin-top: 100px;
+       
+    }
+    .left_site_writing p{
+        width: 400px;
+        display: inline-block;
+       font-size: 20px;
+      
+    }
+
+    .left_site{
+     width: 100%;
+       margin-left: 50px;
+    }
+    .right_site{
+      width: 100%;
+       margin-top: 50px;
+    }
+    .right_site p{
+        margin-left: 20px;
+    }
+    
+    
+}
